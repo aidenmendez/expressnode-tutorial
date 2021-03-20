@@ -9,9 +9,6 @@
 6. Start application: `node server.js`
 
 ## Postman Testing Suite
-1. Save testing file locally:
-2. 
-[Postman Testing Suite] (https://www.getpostman.com/collections/b6eacd62a491db3b7609)
-
+1. Save testing file locally: [Postman Testing Suite](https://www.getpostman.com/collections/b6eacd62a491db3b7609)
 2. Import file into Postman.
 3. Run `Express/ Node` directory.
